@@ -17,3 +17,7 @@ IN the beginning God created the Heauen, and the Earth.
  4 And God saw the light, that *it was* good: and God diuided the light from the darkenesse.
  
  5 And God called the light, Day, and the darknesse he called Night: and the euening and the morning were the first day.
+ 
+ 6 And God said, Let there be a firmament in the midst of the waters: and let it diuide the waters from the waters.
+ 
+ 7 And God made the firmament ; and diuided the waters, which *were* vnder the firmament, from the waters, which *were* aboue the firmament: and it was so.
