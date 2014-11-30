@@ -9,9 +9,9 @@ A plain text type up of the final edition of the public domain 1611 "Authorized 
 * [Directions to Find Easter.](av1611/05_easter.md)
 * [The Order of Psalms and Lessons to be Said at Morning and Evening Prayer.](av1611/06_mae_prayer.md)
 * [The Names and Order of the Books of the Old and New Testament.](av1611/07_toc.md)
-* The Old Testament.
+* [The Old Testament](av1611/08_ot/00_title.md).
     * [Genesis](av1611/08_ot/01_genesis.md)
-* The Apocrypha.
+* [The Apocrypha](av1611/09_ot/00_title.md).
     * [I. Esdras](av1611/09_ap/01_1esdras.md)
-* The New Testament.
+* [The New Testament](av1611/10_ot/00_title.md).
     * [Matthew](av1611/10_nt/01_matthew.md)
