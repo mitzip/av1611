@@ -12,6 +12,6 @@ A plain text type up of the final edition of the public domain 1611 "Authorized 
 * The Old Testament.
     * [Genesis](av1611/08_ot/01_genesis.md)
 * The Apocrypha.
-    * [I. Esdras](av1611/09_ap/01_esdras.md)
+    * [I. Esdras](av1611/09_ap/01_1esdras.md)
 * The New Testament.
     * [Matthew](av1611/10_nt/01_matthew.md)
