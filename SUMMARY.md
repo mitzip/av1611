@@ -15,3 +15,4 @@ A plain text type up of the final edition of the public domain 1611 "Authorized 
     * [I. Esdras](av1611/09_ap/01_1esdras.md)
 * [The New Testament](av1611/10_ot/00_title.md).
     * [Matthew](av1611/10_nt/01_matthew.md)
+* [Potential Errata](potential_errata.md)
